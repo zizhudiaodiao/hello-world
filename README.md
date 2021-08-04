@@ -4,3 +4,5 @@ now this is a copy file of the main file. On GitHub, saved changes are called co
 I am trying again.
 Today is a mostly sunny day. 
 Open a pull request.
+Create a pull request. 
+Merge a pull request. 
